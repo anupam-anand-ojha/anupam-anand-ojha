@@ -1,4 +1,4 @@
-#  about me:
+#  About me:
 I build scalable web applications and integrate Al to turn ideas into intelligent, real-world products.<br>With hands-on experience across the MERN stack, I handle everything from crafting responsive React interfaces to building robust Node.js backends, managing secure databases, and deploying production-ready applications. I focus on solving real problems - whether through workflow automation or smarter user experiences powered by Al.<br>I care about clean architecture, maintainable code, and<br>building products that are fast, scalable, and genuinely useful.
 
 
